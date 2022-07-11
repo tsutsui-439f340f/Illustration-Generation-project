@@ -13,7 +13,9 @@
 顔生成に関してはStyleGAN3で行った結果、モード崩壊が起こることなく正常に学習できることを確認しています。
 
 # サンプル
-StyleGAN3生成画像(256x256)\ 
-学習時間:6日\
+StyleGAN3生成画像(256x256)
+
+学習時間:6日
+
 batch_size:16\
 ![generation](https://user-images.githubusercontent.com/55880071/178160116-7894b631-c03a-431e-b6ed-7ef56e458eb6.PNG)
