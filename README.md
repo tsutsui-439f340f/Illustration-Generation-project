@@ -14,6 +14,6 @@
 
 # サンプル
 StyleGAN3生成画像(256x256)\ 
-学習時間:6日
-batch_size:16
+学習時間:6日\
+batch_size:16\
 ![generation](https://user-images.githubusercontent.com/55880071/178160116-7894b631-c03a-431e-b6ed-7ef56e458eb6.PNG)
