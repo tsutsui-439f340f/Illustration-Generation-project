@@ -25,6 +25,8 @@ batch_size:16\
 ![generation](https://user-images.githubusercontent.com/55880071/178160116-7894b631-c03a-431e-b6ed-7ef56e458eb6.PNG)
 
 
+## データ収集状況
+![image](https://user-images.githubusercontent.com/55880071/184685026-82597893-fdb4-422f-b271-4d8bb7c14afd.png)
 
 
 
