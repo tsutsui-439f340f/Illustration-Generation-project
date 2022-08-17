@@ -32,3 +32,6 @@ batch_size:16\
 
 ## 備考
 サブタスクとして背景除去、セグメンテーションに取り組む予定があります。
+
+
+https://github.com/NVlabs/stylegan3
