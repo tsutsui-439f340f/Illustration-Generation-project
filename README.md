@@ -1,7 +1,8 @@
 # イラスト生成プロジェクト
 本プロジェクトは個人的に行っており、2021/06/14より開始したプロジェクトです。
 
-<div center>
+<div align="center">
+
 https://user-images.githubusercontent.com/55880071/184684067-da3c130b-89f7-4692-a177-aba88255f07d.mp4
 
 </div>
