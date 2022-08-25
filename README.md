@@ -26,6 +26,7 @@ https://user-images.githubusercontent.com/55880071/184684067-da3c130b-89f7-4692-
 StyleGAN3生成画像(256x256)
 学習時間:6日
 batch_size:16\
+使用画像枚数:7500枚\
 ![image](https://user-images.githubusercontent.com/55880071/184714950-d3c9232a-d248-412f-a49c-9104394ce5ee.png)
 ## データ収集状況
 ![image](https://user-images.githubusercontent.com/55880071/184685026-82597893-fdb4-422f-b271-4d8bb7c14afd.png)
