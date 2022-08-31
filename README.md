@@ -38,5 +38,5 @@ batch_size:16\
 
 ## 備考
 
-## 引用
+## 参考
 https://github.com/NVlabs/stylegan3
