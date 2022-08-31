@@ -29,7 +29,7 @@ batch_size:16\
 使用画像枚数:7500枚\
 ![image](https://user-images.githubusercontent.com/55880071/184714950-d3c9232a-d248-412f-a49c-9104394ce5ee.png)
 ## データ収集状況
-質を担保するために全部手作業で行っております。
+質を担保するために全部手作業で行っています。
 ![image](https://user-images.githubusercontent.com/55880071/184685026-82597893-fdb4-422f-b271-4d8bb7c14afd.png)
 
 
@@ -37,7 +37,6 @@ batch_size:16\
 
 
 ## 備考
-サブタスクとして背景除去、セグメンテーションに取り組む予定があります。
 
 ## 引用
 https://github.com/NVlabs/stylegan3
