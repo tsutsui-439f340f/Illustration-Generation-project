@@ -29,9 +29,8 @@ batch_size:16\
 使用画像枚数:7500枚\
 ![image](https://user-images.githubusercontent.com/55880071/184714950-d3c9232a-d248-412f-a49c-9104394ce5ee.png)
 ## データ収集状況
-質を担保するために全部手作業で行っています。
-![image](https://user-images.githubusercontent.com/55880071/184685026-82597893-fdb4-422f-b271-4d8bb7c14afd.png)
-
+質を担保するために全部手作業で収集しています。
+![image](https://user-images.githubusercontent.com/55880071/187722164-6334d03e-35fc-4f54-bf80-ee28b0fc8e29.png)
 
 
 
