@@ -37,8 +37,7 @@ batch_size:16\
 質を担保するために全部手作業で収集しています。
 ![image](https://user-images.githubusercontent.com/55880071/187723325-4a5fe061-97c3-488b-91e5-9026f33303c4.png)
 
-## コメント
-512x512のデータは用意しているが、モデル学習のための計算機がない。
+
 
 ## 参考
 https://github.com/NVlabs/stylegan3
