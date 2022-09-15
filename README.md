@@ -35,8 +35,7 @@ batch_size:16\
 ![image](https://user-images.githubusercontent.com/55880071/184714950-d3c9232a-d248-412f-a49c-9104394ce5ee.png)
 ## データ収集状況
 質を担保するために全部手作業で収集しています。
-![image](https://user-images.githubusercontent.com/55880071/187723325-4a5fe061-97c3-488b-91e5-9026f33303c4.png)
-
+![image](https://user-images.githubusercontent.com/55880071/190422922-886d82a0-ed99-4701-b0c2-39bbc4d3087c.png)
 
 
 ## 参考
